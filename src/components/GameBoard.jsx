@@ -1,5 +1,3 @@
-
-
 function GameBoard({ onSelectSquare, board }) {
 
   return (
